@@ -8,6 +8,7 @@
 
 [![GitHub](https://img.shields.io/badge/Профиль-CrazyNordic19871987-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CrazyNordic19871987)
 [![Telegram](https://img.shields.io/badge/Telegram-@CrazyNordic-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CrazyNordic)
+[![EN](https://img.shields.io/badge/README-English-6ea8ff?style=flat-square)](./README.en.md)
 
 </div>
 
